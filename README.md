@@ -1,12 +1,16 @@
 </> Markdown
 
-# Movie Finder
+## React Film Project
+
+![React Film Project](./reactfilmproject.png)
+
+## React Film App
 
 🔗 **Live Demo:** [View Live Website](https://final-react-movies-projectcrimsongo.vercel.app/)
 
 A React application that allows users to search for movies.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
