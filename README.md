@@ -4,6 +4,11 @@
 
 ![React Film Project](./reactfilmproject.png)
 
+## 🛠️ Tech Stack
+
+* React — User interface development  
+* REST API — Communication with web services through REST endpoints
+
 ## React Film App
 
 🔗 **Live Demo:** [View Live Website](https://final-react-movies-projectcrimsongo.vercel.app/)
