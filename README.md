@@ -6,8 +6,14 @@
 
 ## 🛠️ Tech Stack
 
-* React — User interface development  
-* REST API — Communication with web services through REST endpoints
+* React — User interface development.  
+* REST API — Communication with web services through REST endpoints.
+
+### 🚀 Key Features
+
+*  📚 Dynamic Film Search & Discovery: Enables users to search and browse movies with dynamically loaded film data for an engaging discovery experience.
+*  ⚡ Seamless Navigation & Routing: Implements dynamic routing to provide smooth navigation between movie listings and individual film details.
+*  🎯 Responsive, Reusable Components: Features reusable movie card components with responsive layouts for a consistent browsing experience across desktop, tablet, and mobile devices.
 
 ## React Film App
 
